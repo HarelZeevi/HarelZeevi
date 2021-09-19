@@ -17,5 +17,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harelzeevi&" alt="harelzeevi" /></p>
 
-
-<img src="https://www.canva.com/design/DAEqeUcJtuo/HwOgXJgu43dA-pVSyJbGiw/watch?utm_content=DAEqeUcJtuo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="40" height="40" />
+![Alt Text](https://github.com/HarelZeevi/HarelZeevi/blob/main/HAREL.gif)
